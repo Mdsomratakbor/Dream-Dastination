@@ -1,0 +1,95 @@
+.headersection {
+	background: #2fca7d none repeat scroll 0 0;
+}
+.icon a {
+	background: #6EA154 none repeat scroll 0 0;
+	color: #ffffff;
+	
+}
+.searchbtn input[type="text"] {
+	border: 1px solid #C2E5ED;
+	background: #88E89B;
+}
+input[type="submit"] {
+	background: #148f63 none repeat scroll 0 0;
+}
+.searchbtn input[type="submit"] {
+	border: 1px solid #d0e0e6;
+}
+.searchbtn input[type="submit"]:hover {
+	background: #165749 none repeat scroll 0 0;
+	border: 1px solid #4be6c5;
+}
+.navsection {
+	background: none repeat scroll 0 0 #06C29A;
+}
+.navsection ul li a:hover, #active {
+	background: #8CEDF2;
+	color: #35746b;
+}
+.navsection ul li {
+	border-left: 1px solid #ffffcc;
+	border-right: 1px solid #26c19b;
+}
+.maincontent {
+	background: #99FFC3 none repeat scroll 0 0;
+	border: 1px solid #52cbb5;
+}
+.samepost h2 a {
+	color: #119f8b;
+}
+.samepost h2, .about h2 {
+	border-bottom: 2px solid #39b1b6;
+	color: #363128;
+}
+
+.readmore a {
+	background: #afedbf none repeat scroll 0 0;
+	border: 1px solid #1cb7a1;
+	color: #5287cc;
+}
+
+.readmore a:hover {
+	color: #25E1B3;
+}
+.samesidebar h2 {
+	background: #99FFC3 none repeat scroll 0 0;
+	border-bottom: 2px solid #1cb7a7;
+	color: #008D79;
+}
+.sidebar {
+	background: #99FFC3 none repeat scroll 0 0;
+	border: 1px solid #91afb1;
+}
+.samesidebar ul li a:hover {
+	color: #4EC39A;
+}
+.samesidebar ul li {
+	border-bottom: 1px dashed #8bb0cb;
+	
+}
+.samesidebar ul li a {
+	color: #0f472b;
+}
+.popular h3 a {
+	color: #033e2d;
+}
+.paginetion a {
+	background: #4be684 none no-repeat;
+	border: 1px solid #59a283;
+	color: #072320;
+	
+}
+.footermenu ul li a {
+	color: #4BD6E6;
+}
+.footersection {
+	background: #99FFE9;
+}
+
+.relatedpost h2 {
+	background: #76e4c5 none repeat scroll 0 0;
+	border-bottom: 2px solid #72cbc7 !important;
+	color: #2d3634 !important;
+}
+
