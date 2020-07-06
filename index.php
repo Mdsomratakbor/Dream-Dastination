@@ -18,13 +18,10 @@
 
 			?>
 			<!--------PAGINETION CODE-------->
-
-
 			<?php
 			$query = "SELECT * FROM dbl_post limit $start_from,$per_page";
 			$post = $db->select($query);
-			if ($post) {
-				
+			if ($post) {				
 			while ($result = $post->fetch_assoc()) {
 			?>
 			<div class="samepost clear">
